@@ -38,7 +38,7 @@ soundDog.src = "../sounds/dog.wav";
 const soundBear = new Audio();
 soundBear.src = "../sounds/bear.wav";
 
-const soundHorse = new Audio();
+const soundHorse = new Audio(("/js-dom-manipulation-with-css-animations-effect-onscroll-exercise/sounds/horse.wav"););
 soundHorse.src = "../sounds/horse.wav";
 
 const soundLeviosa = new Audio();
