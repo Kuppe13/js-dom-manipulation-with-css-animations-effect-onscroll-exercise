@@ -33,16 +33,16 @@ const getBearBtn = document.getElementById("bearElem");
 const getHorseBtn = document.getElementById("horseElem"); 
 
 const soundDog = new Audio();
-soundDog.src = "../sounds/dog.wav";
+soundDog.src = "sounds/dog.wav";
 
 const soundBear = new Audio();
-soundBear.src = "../sounds/bear.wav";
+soundBear.src = "sounds/bear.wav";
 
-const soundHorse = new Audio(("/js-dom-manipulation-with-css-animations-effect-onscroll-exercise/sounds/horse.wav"););
-soundHorse.src = "../sounds/horse.wav";
+const soundHorse = new Audio();
+soundHorse.src = "sounds/horse.wav";
 
 const soundLeviosa = new Audio();
-soundLeviosa.src = "../sounds/leviosa.wav";
+soundLeviosa.src = "sounds/leviosa.wav";
 
 
 const dogElem = document.getElementById("dogElem");
